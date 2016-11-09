@@ -2,7 +2,7 @@
 
 ### What is this repository for? ###
 
-* My personal Windows management utilities.
+* My personal Windows workstation management utilities.
 
 ### How do I get set up? ###
 
