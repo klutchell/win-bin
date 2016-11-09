@@ -1,4 +1,17 @@
-# win-bin
-Generic Windows management utilities.
+# win-bin #
 
-I do not take credit for most of these scripts. I collected them over the years and needed a central repo to track them :)
+### What is this repository for? ###
+
+* My personal Windows management utilities.
+
+### How do I get set up? ###
+
+* Clone repo to ~/bin
+
+### Contribution guidelines ###
+
+* N/A
+
+### Who do I talk to? ###
+
+* Repo owner or admin
