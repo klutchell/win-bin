@@ -1,0 +1,20 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.png\Shell\T3D Print]
+@="@%SystemRoot%\\\\system32\\\\PrintDialogs3D.dll,-5039"
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.png\Shell\T3D Print\Command]
+"DelegateExecute"="{1A68CF90-753A-4523-A4A4-40CAB4BC6EFF}"
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.jpg\Shell\T3D Print]
+@="@%SystemRoot%\\\\system32\\\\PrintDialogs3D.dll,-5039"
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.jpg\Shell\T3D Print\Command]
+"DelegateExecute"="{1A68CF90-753A-4523-A4A4-40CAB4BC6EFF}"
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.bmp\Shell\T3D Print]
+@="@%SystemRoot%\\\\system32\\\\PrintDialogs3D.dll,-5039"
+
+[HKEY_CLASSES_ROOT\SystemFileAssociations\.bmp\Shell\T3D Print\Command]
+"DelegateExecute"="{1A68CF90-753A-4523-A4A4-40CAB4BC6EFF}"
+
