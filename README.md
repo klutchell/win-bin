@@ -1,17 +1,23 @@
 # win-bin #
 
-### What is this repository for? ###
+## Description ##
 
-* My personal Windows workstation management utilities.
+my personal Windows workstation management utilities
 
-### How do I get set up? ###
+## Installing ##
 
-* Clone repo to ~/bin
+```bash
+git clone git@github.com:klutchell/win-bin.git ~/bin
+```
 
-### Contribution guidelines ###
+## Contributing ##
 
-* N/A
+* n/a
 
-### Who do I talk to? ###
+## Author ##
 
-* Repo owner or admin
+Kyle Harding <kylemharding@gmail.com>
+
+## Credits ##
+
+* http://www.ghacks.net/2016/11/08/improve-windows-10-with-one-click-batch-files/
