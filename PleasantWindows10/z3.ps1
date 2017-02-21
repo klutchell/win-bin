@@ -1,1 +1,2 @@
-Get-AppxPackage -AllUsers | Remove-AppxPackage
+# Get-AppxPackage -AllUsers | Remove-AppxPackage
+Get-AppxPackage -AllUsers | where-object {$_.name -notlike "*Microsoft.WindowsStore*"} | where-object {$_.name -notlike "*Microsoft.WindowsCalculator*"} | Remove-AppxPackage
